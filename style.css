@@ -1,0 +1,49 @@
+body {
+    background: rgb(247, 236, 247); ;
+    max-width: 900px;
+    margin: auto;
+    font-size: 14px;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#tittle  .habilidad {
+    color: rgb(64, 54, 127);
+    
+
+}
+ #titlle {
+    font-style: italic;
+    background: rgb(125, 128, 141);
+    
+    text-align: left;
+    margin: auto;
+    
+    
+    
+ }
+.habilidad{
+    font-style:italic;
+    
+}
+
+.sobre{
+    background: rgb(125, 128, 141);
+    
+    padding: 5px;
+    margin: auto;
+    text-align: left;
+}
+
+.post_image {
+   background-size: auto;height: 300px;width: 100%;
+}
+
+.linkedi {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sobreMim{
+    color: rgb(64, 54, 127);
+    font-style:italic;
+}
