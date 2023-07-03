@@ -7,17 +7,23 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
-#tittle  .habilidad {
-    color: rgb(64, 54, 127);
+  .habilidad {
+    color: rgb(167, 153, 246);
     
 
 }
  #titlle {
+   
     font-style: italic;
-    background: rgb(125, 128, 141);
     
-    text-align: left;
-    margin: auto;
+    margin: 0;
+    color: rgb(22, 22, 21);
+    padding-top: 10px;
+    
+    
+    
+    text-align: center;
+   
     
     
     
@@ -28,8 +34,8 @@ body {
 }
 
 .sobre{
-    background: rgb(125, 128, 141);
-    
+   
+    color: rgb(22, 22, 21);
     padding: 5px;
     margin: auto;
     text-align: left;
